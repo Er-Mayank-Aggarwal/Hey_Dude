@@ -1,50 +1,31 @@
-# Welcome to your Expo app 👋
+**Study Material App for MBMU**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native bot app built using Expo, designed specifically for students of Mugneeram Bangur Memorial University (MBMU). This app provides easy access to study materials, helping students stay organized and prepared for their courses.
 
-## Get started
+Features
+* **Course-Specific Materials**: Access study materials categorized by course and subject.
+* **User-Friendly Interface**: Simple and intuitive navigation for quick access to content.
+* **Offline Access**: Download materials to access even when you're offline.
+* **Regular Updates**: Study materials are frequently updated to ensure the latest content is available.
+  
+**Technologies Used**
+* React Native
+* Expo
+* JavaScript (ES6+)
 
-1. Install dependencies
+**Installation**
 
-   ```bash
-   npm install
-   ```
+* Clone the repositery :
+  git clone https://github.com/yourusername/study-material-app.git
+* Navigate to the project directory:
+  cd study-material-app
+* Install dependencies:
+  npm start
+* Start the app:
+  expo start
 
-2. Start the app
+**Contribution**
+Feel free to contribute to this project by submitting issues or pull requests. Let's make studying more accessible for MBMU students!
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**License**
+This project is licensed under the MIT License.
