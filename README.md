@@ -29,3 +29,8 @@ Feel free to contribute to this project by submitting issues or pull requests. L
 
 **License**
 This project is licensed under the MIT License.
+
+**Preview**
+![WhatsApp Image 2024-09-18 at 1 39 19 PM](https://github.com/user-attachments/assets/be0a766a-5ccf-4b59-bb4c-34308aeec4e7)
+
+![WhatsApp Image 2024-09-18 at 1 39 19 PM (1)](https://github.com/user-attachments/assets/f8a9c8de-6a78-4bd5-a6cb-dc2beda08f6e)
