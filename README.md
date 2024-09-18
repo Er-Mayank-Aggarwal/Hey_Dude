@@ -16,9 +16,9 @@ Features
 **Installation**
 
 * Clone the repositery :
-  git clone https://github.com/yourusername/study-material-app.git
+  git clone https://github.com/Er-Mayank-Aggarwal/Hey_Dude.git
 * Navigate to the project directory:
-  cd study-material-app
+  cd Hey_Dude
 * Install dependencies:
   npm start
 * Start the app:
